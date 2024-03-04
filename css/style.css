@@ -14,13 +14,10 @@ body{
     font-family: 'Work Sans', sans-serif;
     font-size: 20px;
 }
-.titulo-principal{
-    size-adjust: 34734vw;
-}
-.heading-hero {
+.title-principal {
     font-family: 'Termina demi', sans-serif;
     color: #fff;
-    font-size: 64px;
+    font-size: 70px;
     line-height: 120%;
     font-weight: bold;
 }
