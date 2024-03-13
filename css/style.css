@@ -1,6 +1,6 @@
 body{
     
-    background: linear-gradient(165deg, rgba(236,15,49,1) 0%, rgba(115,49,10,1) 22%, rgba(0,0,0,1) 79%) fixed;
+    background: linear-gradient(165deg, rgb(146, 27, 45) 0%, rgba(115,49,10,1) 22%, rgba(0,0,0,1) 79%) fixed;
 }
 .white{
     color: rgb(255, 255, 255); 
@@ -28,4 +28,7 @@ body{
     border-radius: 3px;
     padding: 1vw;
     font-weight: bold;
+}
+.conteudo-page{
+    background-color: black;
 }
