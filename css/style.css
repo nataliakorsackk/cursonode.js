@@ -1,18 +1,6 @@
 body{
     
-    background: linear-gradient(165deg, rgb(146, 27, 45) 0%, rgba(115,49,10,1) 22%, rgba(0,0,0,1) 79%) fixed;
-}
-.white{
-    color: rgb(255, 255, 255); 
-    transition: 0.5s #ff9659;;
-    opacity: 0.7;
-        
-}
-.orange-active{
-    color: #ff9659;
-    font-weight: normal;
-    font-family: 'Work Sans', sans-serif;
-    font-size: 20px;
+    background: linear-gradient(180deg, rgb(146, 27, 45) 0%, rgba(115,49,10,1) 22%, rgba(0,0,0,1) 79%) fixed;
 }
 .title-principal {
     font-family: 'Termina demi', sans-serif;
@@ -31,4 +19,43 @@ body{
 }
 .conteudo-page{
     background-color: black;
+}
+.title-conteudo{
+    color: white;
+    font-size: 48px;
+    font-family: 'termina demi' , sans-serif;
+    line-height: 120%;
+    font-weight: bold;
+}
+.navbar-collapse{
+    justify-content: space-between;
+}
+.text-start{
+    font-family: work sans, sans-serif;
+    color: #ff9659;
+    font-size: 20px;
+    line-height: 150%;
+    font-weight: 500;
+}
+.card{
+    padding: 32px;
+    border: 1px solid #28263a;
+    border-radius: 8px;
+    background-color: #181628;
+    box-sizing: border-box;
+}
+.card-title{
+    font-family: 'termina demi' , sans-serif;
+    font-size: 24px;
+    line-height: 100%;
+    font-weight: 700;
+    font-weight: bold;
+    color: white;
+}
+.card-subtitle{
+    font-family: work sans, sans-serif;
+    color: #ff9659;
+    font-size: 16px;
+    line-height: 150%;
+    font-weight: 500;
 }
