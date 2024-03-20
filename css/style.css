@@ -59,3 +59,15 @@ body{
     line-height: 150%;
     font-weight: 500;
 }
+
+nav:hover{
+    color:#ff9659;
+}
+.imagemsquare{
+    border-radius: 100px;
+    background-color:#181628;
+    width: 80px;
+    height: 80px;
+    display: flex;
+
+}
